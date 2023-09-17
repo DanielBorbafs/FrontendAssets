@@ -190,6 +190,22 @@ img {
 
 
 /* For large devices */
-
+@media screen and(min-width: 1023px) {
+  .nav {
+    height: calc(var(--header-height)) + 2rem;
+    column-gap: 4rem;
+  }
+  .nav__togle,
+  .nav__close {
+    display: none;
+  }
+  .nav__menu {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+}
 
 /* For 2K resolutions (2048 x 1152) */
