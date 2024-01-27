@@ -22,7 +22,7 @@ Esta pasta contém seções prontas e responsivas que podem ser usadas para cria
 
 Encontre várias animações CSS pré-criadas para adicionar um toque de dinamismo às suas páginas. As animações estão prontas para serem incorporadas em elementos específicos.
 
-## Como Usar
+## Como Usar.
 
 Cada pasta contém seu próprio README com instruções detalhadas sobre como usar os componentes ou recursos específicos. Certifique-se de ler o README relevante para obter orientações de implementação.
 
